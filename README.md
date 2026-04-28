@@ -60,7 +60,7 @@
   
   <div class="video">
     <iframe 
-      src="https://www.youtube.com/watch?v=Ms8Xfg48YRk"
+      src="[https://www.youtube.com/watch?v=Ms8Xfg48YRk](https://youtu.be/Ms8Xfg48YRk?si=gvYvHk71AcajoF-O)"
       frameborder="0"
       allowfullscreen>
     </iframe>
